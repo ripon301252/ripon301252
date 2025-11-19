@@ -1,6 +1,6 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/ripon301252/ripon301252/blob/main/ed32af6e-8fab-464d-b9de-9c261970f766.png" alt="Banner" width="50%" />
+<p align="center" style="border-radius:20px">
+  <img src="https://github.com/ripon301252/ripon301252/blob/main/ed32af6e-8fab-464d-b9de-9c261970f766.png" alt="Banner" width="15%"  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
