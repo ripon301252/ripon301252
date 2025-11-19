@@ -61,7 +61,7 @@ Here are some of my highlighted projects:
 - **Overview:** Short description of the project
 - **Tech Stack:** React, TailwindCSS, Firebase
 - **Features:** Login system, Live data update, Responsive UI
-- **Live Link:** [project1.live](https://app.netlify.com/projects/pawmart-cf02df/overview)
+- **Live Link:** [project1.live](https://pawmart-cf02df.netlify.app/)
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/project1.git
