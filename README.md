@@ -19,7 +19,7 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13912&format=png" width="40"/></a>
+  <a href="[https://facebook.com/](https://www.facebook.com/profile.php?id=100089627922381)" target="_blank"><img src="https://img.icons8.com/?size=512&id=13912&format=png" width="40"/></a>
   <a href="https://linkedin.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40"/></a>
   <a href="https://github.com/ripon301252" target="_blank"><img src="https://img.icons8.com/?size=512&id=12599&format=png" width="40"/></a>
 </p>
