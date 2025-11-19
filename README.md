@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/ripon301252/ripon301252/blob/main/ed32af6e-8fab-464d-b9de-9c261970f766.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
