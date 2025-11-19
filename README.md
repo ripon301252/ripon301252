@@ -10,7 +10,7 @@
 
 ### 📍 Location & Contact
 - 🌍 Location: Bangladesh
-- ✉️ Email: mahfuzur.dev@gmail.com
+- ✉️ Email: mahfuzurrahman0012@gmail.com
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy exploring new technologies and continuously improving my skills.
 - 🔭 Frontend Projects
 - 🌱 Learning **React, Next.js, Firebase, Node.js**
 - 💬 Ask me about **JavaScript, TailwindCSS, React**
-- 📫 Reach me at **mahfuzur.dev@gmail.com**
+- 📫 Reach me at **mahfuzurrahman0012@gmail.com**
 
 ---
 
@@ -61,7 +61,7 @@ Here are some of my highlighted projects:
 - **Overview:** Short description of the project
 - **Tech Stack:** React, TailwindCSS, Firebase
 - **Features:** Login system, Live data update, Responsive UI
-- **Live Link:** [project1.live](https://project1.live)
+- **Live Link:** [project1.live](https://app.netlify.com/projects/pawmart-cf02df/overview)
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/project1.git
