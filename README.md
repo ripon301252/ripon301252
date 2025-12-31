@@ -6,7 +6,7 @@
 
 ### 📍 Location & Contact
 - 🌍 Location: Bangladesh
-- ✉️ Email: mahfuzurrahman0012@gmail.com
+- ✉️ Email: ripon301252@gmail.com
 
 ---
 
@@ -18,7 +18,7 @@ I enjoy exploring new technologies and continuously improving my skills.
 - 🔭 Frontend Projects
 - 🌱 Learning **React, Next.js, Firebase, Node.js**
 - 💬 Ask me about **JavaScript, TailwindCSS, React**
-- 📫 Reach me at **mahfuzurrahman0012@gmail.com**
+- 📫 Reach me at **ripon301252@gmail.com**
 
 ---
 
