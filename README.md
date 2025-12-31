@@ -44,8 +44,9 @@ I enjoy exploring new technologies and continuously improving my skills.
 </p>
 
 <p align="center">  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ripon301252&theme=react" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ripon301252&theme=react" />
 </p>
+
 
 
 ---
