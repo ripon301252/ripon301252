@@ -55,40 +55,48 @@ I enjoy exploring new technologies and continuously improving my skills.
 ### 📌 Pinned Repositories
 Here are some of my highlighted projects:
 
-#### 1. [Project Name 1](https://github.com/ripon301252/project1)
-- **Overview:** Short description of the project
-- **Tech Stack:** React, TailwindCSS, Firebase
-- **Features:** Login system, Live data update, Responsive UI
-- **Live Link:** [project1.live](https://pawmart-cf02df.netlify.app/)
+---
+
+#### 🚀 [Project One](https://github.com/ripon301252/project1)
+
+- **Overview:** An e-commerce style web application with user authentication and live data updates.
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- **Features:**
+  - Login & Registration system
+  - Live data updates
+  - Fully responsive UI
+
+- **Live Demo:** 👉 [View Project](https://pawmart-cf02df.netlify.app/)
+
 - **Local Setup:**
+  
+#### 🚀 [Project One](https://github.com/ripon301252/project2)
+
+- **Overview:** An e-commerce style web application with user authentication and live data updates.
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- **Features:**
+  - Login & Registration system
+  - Live data updates
+  - Fully responsive UI
+
+- **Live Demo:** 👉 [View Project](https://asset-verse-13e4f4.netlify.app/)
+
+- **Local Setup:**
+  
 ```bash
 git clone https://github.com/ripon301252/project1.git
 cd project1
 npm install
 npm start
 
-----
 
-### 📌 Pinned Repositories
-Here are some of my highlighted projects:
 
-#### 🚀 [Project One](https://github.com/ripon301252/project2)
 
-- **Overview:** A modern web application with authentication and real-time data updates.
-- **Tech Stack:** React, Tailwind CSS, Firebase
-- **Features:**
-  - User authentication (Login / Register)
-  - Real-time data updates
-  - Fully responsive UI
 
-- **Live Demo:** 👉 [View Project](https://asset-verse-13e4f4.netlify.app/)
 
-- **Local Setup:**
-```bash
-git clone https://github.com/ripon301252/project1.git
-cd project1
-npm install
-npm run dev
+
+
+
 
 
 
