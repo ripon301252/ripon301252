@@ -66,3 +66,19 @@ git clone https://github.com/ripon301252/project1.git
 cd project1
 npm install
 npm start
+
+
+### 📌 Pinned Repositories
+Here are some of my highlighted projects:
+
+#### 2. [Project Name 2](https://github.com/ripon301252/project1)
+- **Overview:** Short description of the project
+- **Tech Stack:** React, TailwindCSS, Firebase
+- **Features:** Login system, Live data update, Responsive UI
+- **Live Link:** [project1.live](https://asset-verse-13e4f4.netlify.app/)
+- **Local Setup:**
+```bash
+git clone https://github.com/ripon301252/project1.git
+cd project1
+npm install
+npm start
