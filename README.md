@@ -44,8 +44,9 @@ I enjoy exploring new technologies and continuously improving my skills.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripon301252&theme=react" />
+  <img src="https://streak-stats.demolab.com/?user=ripon301252&theme=react" />
 </p>
+
 
 ---
 
