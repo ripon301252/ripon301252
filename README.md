@@ -70,7 +70,6 @@ Here are some of my highlighted projects:
   - Login & Registration system
   - Live data updates
   - Fully responsive UI
-- **Screenshot:** ![Project Screenshot](https://via.placeholder.com/600x300?text=Project+Screenshot)
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/pawmart-client-B-12.git
@@ -82,9 +81,9 @@ npm start
 
 ---
 
-#### 🚀 Project Two
-
-🔗 Repository: https://github.com/ripon301252/asset-verse-client
+#### 🚀 AssetVerse Client
+🔗 **Repository:** [asset-verse-client](https://github.com/ripon301252/asset-verse-client)  
+🔗 **Live Demo:** [Visit Site](https://asset-verse-13e4f4.netlify.app/)
 
 - **Overview:** A modern web application with authentication and real-time data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
@@ -92,9 +91,6 @@ npm start
   - Login & Registration system
   - Live data updates
   - Fully responsive UI
-
-- **Live Demo:** 👉 https://asset-verse-13e4f4.netlify.app/
-
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/asset-verse-client.git
@@ -104,9 +100,9 @@ npm run dev
 ```
 ---
 
-#### 🚀 Project Three
-
-🔗 Repository: https://github.com/ripon301252/kids-toy-update
+#### 🚀 KidsTtoy Client
+🔗 **Repository:** [kids-toy-update](https://github.com/ripon301252/kids-toy-update)  
+🔗 **Live Demo:** [Visit Site](https://kids-toy-up-73b1c6.netlify.app/)
 
 - **Overview:** A modern web application with authentication and real-time data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
@@ -114,9 +110,6 @@ npm run dev
   - Login & Registration system
   - Live data updates
   - Fully responsive UI
-
-- **Live Demo:** 👉 https://kids-toy-up-73b1c6.netlify.app/
-
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/kids-toy-update.git
