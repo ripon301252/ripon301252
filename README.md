@@ -67,5 +67,29 @@ cd project1
 npm install
 npm start
 
+----
+
+### 📌 Pinned Repositories
+Here are some of my highlighted projects:
+
+#### 🚀 [Project One](https://github.com/ripon301252/project2)
+
+- **Overview:** A modern web application with authentication and real-time data updates.
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- **Features:**
+  - User authentication (Login / Register)
+  - Real-time data updates
+  - Fully responsive UI
+
+- **Live Demo:** 👉 [View Project](https://asset-verse-13e4f4.netlify.app/)
+
+- **Local Setup:**
+```bash
+git clone https://github.com/ripon301252/project1.git
+cd project1
+npm install
+npm run dev
+
+
 
 
