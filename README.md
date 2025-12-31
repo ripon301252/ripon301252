@@ -1,4 +1,4 @@
-![Banner](https://chatgpt.com/s/m_6954e0cfdd808191832f13d039b5dc97)
+![Banner](https://github.com/ripon301252/ripon301252/blob/main/Mahfuzur%20Rahman's%20GitHub%20profile%20banner.png)
 
 # Hi 👋, I'm Mahfuzur Rahman
 ### A Passionate Frontend Developer from Bangladesh
