@@ -41,15 +41,14 @@ I enjoy exploring new technologies and continuously improving my skills.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ripon301252&show_icons=true&theme=github_dark&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripon301252&layout=compact&theme=github_dark&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ripon301252&show_icons=true&theme=github_dark" />
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ripon301252&layout=compact&theme=github_dark" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripon301252&theme=react" />
 </p>
+
 
 ---
 
