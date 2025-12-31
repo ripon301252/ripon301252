@@ -63,7 +63,7 @@ Here are some of my highlighted projects:
 ---
 
 #### 🚀 Project One
-🔗 **Repository:** https://github.com/ripon301252/project1  
+🔗 **Repository:** https://github.com/ripon301252/pawmart-client-B-12 
 
 - **Overview:** An e-commerce style web application with user authentication and live data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
@@ -82,11 +82,11 @@ npm install
 npm start
 ```
 
-
+---
 
 #### 🚀 Project Two
 
-🔗 Repository: https://github.com/ripon301252/project2
+🔗 Repository: https://github.com/ripon301252/asset-verse-client
 
 - **Overview:** A modern web application with authentication and real-time data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
