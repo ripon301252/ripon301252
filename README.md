@@ -89,6 +89,12 @@ cd project1
 npm install
 npm start
 
+git clone https://github.com/ripon301252/project2.git
+cd project2
+npm install
+npm run dev
+
+
 
 
 
