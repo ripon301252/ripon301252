@@ -44,7 +44,7 @@ I enjoy exploring new technologies and continuously improving my skills.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ripon301252&theme=react" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?user=ripon301252&theme=react" />
 </p>
 
 
