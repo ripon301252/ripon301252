@@ -70,7 +70,7 @@ git clone https://github.com/ripon301252/pawmart-client-B-12.git
 cd project1
 npm install
 npm start
-
+```
 
 ---
 
