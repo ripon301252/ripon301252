@@ -31,8 +31,8 @@ I enjoy exploring new technologies and continuously improving my skills.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.icons8.com/?size=512&id=13912&format=png" width="40"/></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40"/></a>
+  <a href="https://www.facebook.com/mahfuzur.rahman.98284" target="_blank"><img src="https://img.icons8.com/?size=512&id=13912&format=png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/mahfuzur-rahman-280471392/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40"/></a>
   <a href="https://github.com/ripon301252" target="_blank"><img src="https://img.icons8.com/?size=512&id=12599&format=png" width="40"/></a>
 </p>
 
