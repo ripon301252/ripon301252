@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://chatgpt.com/s/m_6954e0cfdd808191832f13d039b5dc97)
 
 # Hi 👋, I'm Mahfuzur Rahman
 ### A Passionate Frontend Developer from Bangladesh
@@ -8,7 +8,7 @@
 ### 📍 Location & Contact
 - 🌍 Location: Bangladesh
 - ✉️ Email: ripon301252@gmail.com
-- 📱 Phone: +8801XXXXXXXXX
+- 📱 Phone: +880 1626607121
 
 ---
 
