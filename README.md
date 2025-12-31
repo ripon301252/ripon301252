@@ -52,15 +52,8 @@ I enjoy exploring new technologies and continuously improving my skills.
 
 ---
 
-### 📌 Pinned Repositories
+## 📌 Pinned Repositories
 Here are some of my highlighted projects:
-
----
-
-### 📌 Pinned Repositories
-Here are some of my highlighted projects:
-
----
 
 #### 🚀 Project One
 🔗 **Repository:** https://github.com/ripon301252/pawmart-client-B-12 
@@ -76,7 +69,7 @@ Here are some of my highlighted projects:
 
 - **Local Setup:**
 ```bash
-git clone https://github.com/ripon301252/project1.git
+git clone https://github.com/ripon301252/pawmart-client-B-12.git
 cd project1
 npm install
 npm start
@@ -99,7 +92,7 @@ npm start
 
 - **Local Setup:**
 ```bash
-git clone https://github.com/ripon301252/project2.git
+git clone https://github.com/ripon301252/asset-verse-client.git
 cd project2
 npm install
 npm run dev
