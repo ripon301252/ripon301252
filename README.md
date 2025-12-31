@@ -97,6 +97,29 @@ cd project2
 npm install
 npm run dev
 ```
+---
+
+#### 🚀 Project Three
+
+🔗 Repository: https://github.com/ripon301252/kids-toy-update
+
+- **Overview:** A modern web application with authentication and real-time data updates.
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- **Features:**
+  - Login & Registration system
+  - Live data updates
+  - Fully responsive UI
+
+- **Live Demo:** 👉 https://kids-toy-up-73b1c6.netlify.app/
+
+- **Local Setup:**
+```bash
+git clone https://github.com/ripon301252/kids-toy-update.git
+cd project3
+npm install
+npm run dev
+```
+
 
 
 
