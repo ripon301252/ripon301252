@@ -8,6 +8,7 @@
 ### 📍 Location & Contact
 - 🌍 Location: Bangladesh
 - ✉️ Email: ripon301252@gmail.com
+- 📄 Resume: [View Resume(https://drive.google.com/file/d/1nAC-DCqfnY7Lo4jHVFCrxn7yxzJjGoif/view?usp=sharing)] 
 - 📱 Phone: +880 1626607121
 
 ---
