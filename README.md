@@ -58,8 +58,47 @@ I enjoy exploring new technologies and continuously improving my skills.
 ## 📌 Pinned Repositories
 Here are some of my highlighted projects:
 
----
+#### 🚀 Habit Tracker Client
+🔗 **Repository:** [habit-tracker-client](https://github.com/ripon301252/habit-tracker-client)  
+🔗 **Live Demo:** [Visit Site](https://habit-tracker-ce8037.netlify.app/)  
 
+- **Overview:** A habit tracking web app to manage daily, weekly, and monthly goals with progress tracking.  
+- **Tech Stack:** React, Tailwind CSS, Local Storage  
+- **Features:**
+  - Add, edit, and delete habits  
+  - Track daily/weekly/monthly progress  
+  - Streak tracking system  
+  - Clean and responsive UI  
+- **Local Setup:**
+```bash
+git clone https://github.com/ripon301252/habit-tracker-client.git
+cd habit-tracker-client
+npm install
+npm run dev
+```
+
+#### 🚀 Speedy Parcel Server
+🔗 **Repository:** [speedy-parcel-server](https://github.com/ripon301252/speedy-parcel-server)  
+🔗 **Live Demo:** [Visit Site](https://speedy-parcel-02aa5d.netlify.app/)  
+
+- **Overview:** A backend system for managing parcel delivery services including booking and tracking.  
+- **Tech Stack:** Node.js, Express.js, MongoDB  
+- **Features:**
+  - Parcel booking system  
+  - Delivery status tracking  
+  - API-based architecture  
+  - Organized backend structure  
+
+- **Local Setup:**
+```bash
+git clone https://github.com/ripon301252/speedy-parcel-server.git
+cd speedy-parcel-server
+npm install
+npm start
+```
+
+
+---
 #### 🚀 Pawmart Client
 🔗 **Repository:** [pawmart-client-B-12](https://github.com/ripon301252/pawmart-client-B-12)  
 🔗 **Live Demo:** [Visit Site](https://pawmart-cf02df.netlify.app/)
@@ -76,11 +115,9 @@ git clone https://github.com/ripon301252/pawmart-client-B-12.git
 cd project1
 npm install
 npm start
-
 ```
 
 ---
-
 #### 🚀 AssetVerse Client
 🔗 **Repository:** [asset-verse-client](https://github.com/ripon301252/asset-verse-client)  
 🔗 **Live Demo:** [Visit Site](https://asset-verse-13e4f4.netlify.app/)
