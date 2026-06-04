@@ -67,8 +67,7 @@ Here are some of my highlighted projects:
 - **Features:**
   - Add, edit, and delete habits  
   - Track daily/weekly/monthly progress  
-  - Streak tracking system  
-  - Clean and responsive UI  
+  - Streak tracking system   
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/habit-tracker-client.git
@@ -86,8 +85,8 @@ npm run dev
 - **Features:**
   - Parcel booking system  
   - Delivery status tracking  
-  - API-based architecture  
-  - Organized backend structure  
+  - Apply for rider
+    
 
 - **Local Setup:**
 ```bash
@@ -106,9 +105,9 @@ npm start
 - **Overview:** E-commerce web app with user authentication and live data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
 - **Features:**
-  - Login & Registration system
-  - Live data updates
-  - Fully responsive UI
+  - Adopt pets from available listings  
+  - Browse and view pet details  
+  - View order details and history
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/pawmart-client-B-12.git
@@ -125,9 +124,9 @@ npm start
 - **Overview:** A modern web application with authentication and real-time data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
 - **Features:**
-  - Login & Registration system
-  - Live data updates
-  - Fully responsive UI
+  - Browse and view all available assets 
+  - Search assets by name  
+  - Filter assets by category 
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/asset-verse-client.git
@@ -144,9 +143,9 @@ npm run dev
 - **Overview:** A modern web application with authentication and real-time data updates.
 - **Tech Stack:** React, Tailwind CSS, Firebase
 - **Features:**
-  - Login & Registration system
-  - Live data updates
-  - Fully responsive UI
+  - View all toy items in a list  
+  - View detailed information of a single item  
+  - User profile page to manage personal info 
 - **Local Setup:**
 ```bash
 git clone https://github.com/ripon301252/kids-toy-update.git
