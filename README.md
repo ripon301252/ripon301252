@@ -58,7 +58,7 @@ I enjoy exploring new technologies and continuously improving my skills.
 ## 📌 Pinned Repositories
 Here are some of my highlighted projects:
 
-#### 🚀 Habit Tracker Client
+#### 🚀 Habit Tracker 
 🔗 **Repository:** [habit-tracker-client](https://github.com/ripon301252/habit-tracker-client)  
 🔗 **Live Demo:** [Visit Site](https://habit-tracker-ce8037.netlify.app/)  
 
@@ -76,8 +76,8 @@ npm install
 npm run dev
 ```
 
-#### 🚀 Speedy Parcel Server
-🔗 **Repository:** [speedy-parcel-server](https://github.com/ripon301252/speedy-parcel-server)  
+#### 🚀 Speedy Parcel 
+🔗 **Repository:** [speedy-parcel-server](https://github.com/ripon301252/speedy-parcel-client)  
 🔗 **Live Demo:** [Visit Site](https://speedy-parcel-02aa5d.netlify.app/)  
 
 - **Overview:** A backend system for managing parcel delivery services including booking and tracking.  
@@ -98,7 +98,7 @@ npm start
 
 
 ---
-#### 🚀 Pawmart Client
+#### 🚀 Pawmart 
 🔗 **Repository:** [pawmart-client-B-12](https://github.com/ripon301252/pawmart-client-B-12)  
 🔗 **Live Demo:** [Visit Site](https://pawmart-cf02df.netlify.app/)
 
@@ -117,7 +117,7 @@ npm start
 ```
 
 ---
-#### 🚀 AssetVerse Client
+#### 🚀 AssetVerse 
 🔗 **Repository:** [asset-verse-client](https://github.com/ripon301252/asset-verse-client)  
 🔗 **Live Demo:** [Visit Site](https://asset-verse-13e4f4.netlify.app/)
 
@@ -136,7 +136,7 @@ npm run dev
 ```
 ---
 
-#### 🚀 KidsTtoy Client
+#### 🚀 KidsTtoy
 🔗 **Repository:** [kids-toy-update](https://github.com/ripon301252/kids-toy-update)  
 🔗 **Live Demo:** [Visit Site](https://kids-toy-up-73b1c6.netlify.app/)
 
