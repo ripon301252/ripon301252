@@ -71,7 +71,7 @@ Here are some of my highlighted projects:
   - Clean and responsive UI  
 - **Local Setup:**
 ```bash
-git clone https://github.com/ripon301252/habit-tracker-client.git
+git clone : https://github.com/ripon301252/habit-tracker-client.git
 cd habit-tracker-client
 npm install
 npm run dev
