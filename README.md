@@ -56,9 +56,11 @@ I enjoy exploring new technologies and continuously improving my skills.
 </p> -->
 
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ripon301252&show_icons=true&theme=radical&border_radius=15" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripon301252&layout=compact&theme=radical&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ripon301252&show_icons=true&theme=radical&border_radius=15&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripon301252&layout=compact&theme=radical&border_radius=15&cache_seconds=1800" />
 </p>
 
 <p align="center">
