@@ -55,6 +55,8 @@ I enjoy exploring new technologies and continuously improving my skills.
  <img src="https://streak-stats.vercel.app/api?user=ripon301252&theme=react" /> 
 </p>  -->
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img
     height="170"
